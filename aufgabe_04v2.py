@@ -156,3 +156,4 @@ def main_menu():
         input_()
     
     
+main_menu()
